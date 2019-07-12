@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android = "http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/title2">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Developed by Shengyang Wu"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="40dp"
+        android:textSize="13dp"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Contact: wsywu5354@gmail.com"
+        android:layout_marginBottom="15dp"
+        android:textSize="13dp"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GitHub: https://github.com/WuStevenShengyang"
+        android:textSize="13dp"
+        android:textStyle="bold"/>
+</LinearLayout>
+
